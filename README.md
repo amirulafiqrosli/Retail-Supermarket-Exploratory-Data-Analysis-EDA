@@ -1,6 +1,6 @@
 # Retail Supermarket Exploratory Data Analysis (EDA)
 
-## Objective¶
+## Objective
 
 The primary objective of analyzing the supermarket sales dataset through data visualization are to derive valuable insights for strategic decision-making. This involves understanding the overall sales trend over time, optimizing logistics by identifying commonly used ship modes, and recognizing regional patterns to tailor marketing strategies. The analysis also aims to prioritize product categories based on sales contribution, optimize pricing strategies by studying the correlation between discounts and profits, and identify high and low-performing regions for targeted interventions. Additionally, insights into quantity sold variations across product categories aid in inventory management, while understanding discount distribution among customer segments supports targeted promotions. Evaluating profit across shipping modes helps improve delivery efficiency, and exploring the correlation between quantity sold and profit provides insights into the relationship between sales volume and financial performance. Ultimately, these objectives aim to foster informed decision-making for the supermarket chain.
 
